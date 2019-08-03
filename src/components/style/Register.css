@@ -1,0 +1,23 @@
+.form-section
+{
+    margin-left: 65vh;
+    margin-right:65vh;
+    margin-top:25vh;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding:9px 9px 9px 9px;
+}
+.alert-section
+{
+    margin-left: 65vh;
+    margin-right:65vh;
+}
+.form-section h1 
+{
+    text-align: center;
+    margin-bottom: 2vh;
+}
+.form-section Button
+{
+    margin-left: 31vh;
+}
